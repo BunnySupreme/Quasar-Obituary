@@ -1,5 +1,6 @@
 <template>
-  <q-page class="flex flex-center">
+  <q-page class="q-pa-md">
+    <h1>Obituary Wizard</h1>
   </q-page>
 </template>
 
